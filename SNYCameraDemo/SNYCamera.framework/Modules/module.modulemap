@@ -1,0 +1,6 @@
+framework module SNYCamera {
+  umbrella header "SNYCamera.h"
+
+  export *
+  module * { export * }
+}
