@@ -11,5 +11,5 @@
 美颜拍照+裁剪
 
  ![image](https://github.com/songnaiyin/SNYCameraDemo/blob/master/screenshots/IMG_1691.PNG)
- ![image](https://github.com/songnaiyin/SNYCameraDemo/blob/master/screenshots/IMG_1682.PNG)
+ ![image](https://github.com/songnaiyin/SNYCameraDemo/blob/master/screenshots/IMG_1692.PNG)
 
